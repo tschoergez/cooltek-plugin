@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>127.0.0.1:8230</comment>
+<entry key="pkg-description">Acme's Cooltek Adatper for vCO package</entry>
+<entry key="pkg-name">com.acme.plugins.cooltek.cooltek-plugin</entry>
+<entry key="used-plugins">Cooltek#1.0.0</entry>
+<entry key="pkg-owner">My Company</entry>
+<entry key="pkg-id">13740978971678084079175770411367508000000000000000000000000000000</entry>
+</properties>
